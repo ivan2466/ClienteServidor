@@ -1,0 +1,5 @@
+com\github\ivan\clienteservidor\Clientes\Clientes.class
+com\github\ivan\clienteservidor\ClienteServidor.class
+com\github\ivan\clienteservidor\Servidor\Servidor.class
+com\github\ivan\clienteservidor\Servidor\Servidor_UDP.class
+com\github\ivan\clienteservidor\Clientes\Clientes_UDP.class
